@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.navbar.navbar-default{
+    height:70px;
+    background:#09F;
+}
+.cart{
+    color: white;
+}
